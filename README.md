@@ -4,11 +4,11 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Java, PHP, SASS],
+   code: [Javascript, HTML, CSS, Java, PHP],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
-         css: ["Bootstrap"]
+         css: ["Bootstrap", "SASS"]
       },
       databases: ["mySQL", "SQLServer"],
    },
