@@ -10,7 +10,7 @@ const aboutMe = {
          js: ["React", "Angular"],
          css: ["Bootstrap", "SASS"]
       },
-      databases: ["mySQL", "SQLServer"],
+      databases: ["mySQL", "SQLServer", "MariaDB"],
    },
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
