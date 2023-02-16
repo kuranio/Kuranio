@@ -4,13 +4,14 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Java, PHP],
+   code: [HTML, CSS, Laravel, Java, PHP],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
          css: ["Bootstrap", "SASS"]
       },
       databases: ["mySQL", "SQLServer", "MariaDB"],
+      phpFrameworks: ["Laravel"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
