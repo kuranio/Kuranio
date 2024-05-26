@@ -7,8 +7,8 @@ const aboutMe = {
    code: [HTML, CSS, Laravel, Java, PHP],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Bootstrap", "SASS"]
+         js: ["React", "Angular", "Astro"],
+         css: ["Bootstrap", "SASS", "Tailwind"]
       },
       databases: ["mySQL", "SQLServer", "MariaDB"],
       phpFrameworks: ["Laravel"]
